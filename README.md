@@ -1,5 +1,4 @@
 ## Hi Dev 👋
-***
 
 * My name is Eduardo Ferraz
 * I'm 17 years old;
