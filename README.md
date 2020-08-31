@@ -20,7 +20,6 @@ I like to :computer: code, :joystick: play games, :tv: watch movies and series i
 
 Contact me:
 
-   **Twitter**: [@Edupf__](https://twitter.com/edupf__)
   
    **Linkedin**: [Eduardo Ferraz](https://www.linkedin.com/in/eduardo-ferraz-1ba625196/)
 
