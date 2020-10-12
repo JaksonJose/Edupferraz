@@ -14,7 +14,7 @@ Estou entrando na area de tecnologia recentemente, sempre estudando e tentando a
     <table align="center">
       <tr>
           <td>
-              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=edupferraza&count_private=true&hide_border=true" />
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=edupferraz&count_private=true&hide_border=true" />
           </td>
           <td>
               <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edupferraz&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
