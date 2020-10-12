@@ -1,42 +1,23 @@
-## Hi Dev 👋
+<h2>Prazer sou o Eduardo Perorck Ferraz </h2>
 
-* My name is Eduardo Ferraz
-* I'm 17 years old;
-* Student of Digital Technologies;
-* Brazilian.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:raziel.rodrigues@fatec.sp.gov.br)
 
+Estou entrando na area de tecnologia recentemente, sempre estudando e tentando aumentar o meu conhecimento sobre tecnologia, sou apaixonado por códigos e principalmente por apps funcionais!
 
-I am currently working on my personal projects and deepening my knowledge in this vast universe of programming.
+- 📚 <b>Estudante de desenvolvimento web e mobile </b>
+- 🚀 <b>Atualmente trabalhando com Front end no formato de freelancer </b>
 
-Languages I'm delving into:
-  * Web Development: HTML, CSS, JavaScript, Java;
-  * Game Development: C# and Java.
+<hr>
 
-Techs I want to learn more: Typescript, ReactJS, React Native and NodeJS.
-
-***
-
-I like to :computer: code, :joystick: play games, :tv: watch movies and series in my free time.
-
-Contact me:
-
-  
-   **Linkedin**: [Eduardo Ferraz](https://www.linkedin.com/in/eduardo-ferraz-1ba625196/)
-
-
-
-
-<!--
-**edupferraz/Edupferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+    <table align="center">
+      <tr>
+          <td>
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=edupferraza&count_private=true&hide_border=true" />
+          </td>
+          <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edupferraz&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+      </tr>  
+    </table>
+</center>
