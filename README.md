@@ -7,7 +7,7 @@
 <a target="_blank" href="https://www.instagram.com/edupf_/">
   <img align="left" alt="Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="https://twitter.com/edupf__">
+<a target="_blank" href="https://twitter.com/Eduardo97593116">
   <img align="left" alt="Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a target="_blank" href="mailto:edupferraz@gmail.com">
